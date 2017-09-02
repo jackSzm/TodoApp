@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TomorrowProblem</string>
+    <string name="todo_hint">What\'s up ?</string>
+</resources>
